@@ -1,0 +1,13 @@
+var first_name ="Miles ";
+var last_name ="Morales";
+console.log(first_name);
+console.log(last_name);
+first_name.concat(last_name);
+var full_name =first_name.concat(last_name);
+console.log(full_name);
+var a=5;
+var b=3;
+console.log(a);
+console.log(b);
+var c=a+b;
+console.log(c);
